@@ -1,7 +1,7 @@
 import React from "react";
-import "./header.css";
+import "./Header.css";
 
-const header= props => (
+const Header= props => (
     <div className="header">
         <div className="title">
             {props.children}</div>
@@ -10,4 +10,4 @@ const header= props => (
             </div>
     </div>
 );
-export default header;
+export default Header;

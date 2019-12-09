@@ -1,0 +1,24 @@
+.card{
+background: rebeccapurple;
+height: 250px;
+margin: 1rem;
+position: relative;
+width: 225px;
+align-content: center;
+}
+
+.img-container{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+img {
+    width: 175px;
+    height: 200px;
+    margin: 25px;
+}
+.content {
+    padding: 1rem;
+    font-size: 20px;
+}
