@@ -1,24 +1,20 @@
 .card{
-background: rebeccapurple;
+background:#030305 ;
 height: 250px;
-margin: 1rem;
+margin: 35px;
 position: relative;
 width: 225px;
-align-content: center;
+border: #252116 double 10px;
 }
 
 .img-container{
     height: 200px;
     width: 200px;
-    text-align: center;
+    margin-bottom: 200px;
 }
 
 img {
     width: 175px;
     height: 200px;
     margin: 25px;
-}
-.content {
-    padding: 1rem;
-    font-size: 20px;
 }

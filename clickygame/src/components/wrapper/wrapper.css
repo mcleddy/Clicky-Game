@@ -1,8 +1,13 @@
 .wrapper{
 height: 100%;
-background: seagreen;
-flex-flow: wrap;
+background-color: #24485e;
+background-image: url("https://img5.goodfon.com/wallpaper/nbig/c/fb/cat-yellow-eyes-paw-funny-cute-simple-background-digital-art.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: bottom;
+flex-flow: row wrap;
 justify-content: space-around;
-align-content: center;
+align-content: flex-start;
 overflow: auto;
+display: flex;
 }
